@@ -1,6 +1,6 @@
 {
   "name": "lazy-aws-service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lazy initialize AWS services",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
