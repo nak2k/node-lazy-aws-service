@@ -10,10 +10,12 @@
     "lazy-property": "^1.0.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.73.0"
+    "aws-sdk": "^2.226.1"
   },
   "homepage": "https://github.com/nak2k/node-lazy-aws-service",
-  "keywords": [],
+  "keywords": [
+    "aws"
+  ],
   "license": "MIT",
   "main": "lib",
   "repository": {
@@ -21,6 +23,7 @@
     "url": "git+https://github.com/nak2k/node-lazy-aws-service.git"
   },
   "scripts": {
+    "generate": "node gen.js > lib/services.json",
     "test": "node test/test.js"
   },
   "files": [
