@@ -10,7 +10,7 @@
     "lazy-property": "^1.0.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.226.1"
+    "aws-sdk": "^2.271.1"
   },
   "homepage": "https://github.com/nak2k/node-lazy-aws-service",
   "keywords": [
