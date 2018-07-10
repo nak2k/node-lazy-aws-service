@@ -5,14 +5,14 @@ Lazy initialize AWS services.
 ## Installation
 
 ```
-npm i lazy-aws-service -S
+npm i lazy-aws-service
 ```
 
 ## Usage
 
 ``` javascript
-import { addAwsServices } from 'lazy-aws-service';
-import AWS from 'aws-sdk';
+const { addAwsServices } = require('lazy-aws-service');
+const AWS = require('aws-sdk');
 
 const obj = {};
 
