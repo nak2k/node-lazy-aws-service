@@ -24,7 +24,7 @@ addAwsServices(obj, AWS);
 const apigateway = obj.APIGateway;
 ```
 
-## addAwsServices(obj, AWS)
+## addAwsServices(obj, AWS = require('aws-sdk'))
 
 Add properties of AWS services into `obj` with using [lazy-property](https://www.npmjs.com/package/lazy-property).
 
