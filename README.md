@@ -29,7 +29,9 @@ const apigateway = obj.APIGateway;
 Add properties of AWS services into `obj` with using [lazy-property](https://www.npmjs.com/package/lazy-property).
 
 - `obj`
-    - An object to add properties.
+    - An object to add properties of names defined in [services.json](./lib/services.json).
+    - Also following properties are added:
+        - `DocumentClient`
 - `AWS`
     - The AWS namespace of `aws-sdk`.
 
