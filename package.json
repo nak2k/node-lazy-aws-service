@@ -23,7 +23,7 @@
     "url": "git+https://github.com/nak2k/node-lazy-aws-service.git"
   },
   "scripts": {
-    "generate": "node gen.js > lib/services.json",
+    "generate": "node scripts/gen.js > lib/services.json",
     "test": "node test/test.js"
   },
   "files": [
