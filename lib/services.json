@@ -111,6 +111,7 @@
   "MediaConvert",
   "MediaLive",
   "MediaPackage",
+  "MediaPackageVod",
   "MediaStore",
   "MediaStoreData",
   "MediaTailor",
