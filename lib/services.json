@@ -69,6 +69,7 @@
   "ElastiCache",
   "ElasticBeanstalk",
   "ElasticTranscoder",
+  "EventBridge",
   "FMS",
   "FSx",
   "Firehose",
