@@ -141,6 +141,8 @@
   "PinpointSMSVoice",
   "Polly",
   "Pricing",
+  "QLDB",
+  "QLDBSession",
   "QuickSight",
   "RAM",
   "RDS",
@@ -186,6 +188,7 @@
   "WorkDocs",
   "WorkLink",
   "WorkMail",
+  "WorkMailMessageFlow",
   "WorkSpaces",
   "XRay"
 ]
