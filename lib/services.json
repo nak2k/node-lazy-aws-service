@@ -58,6 +58,7 @@
   "DataExchange",
   "DataPipeline",
   "DataSync",
+  "Detective",
   "DeviceFarm",
   "DirectConnect",
   "DirectoryService",
