@@ -42,6 +42,7 @@
   "CodePipeline",
   "CodeStar",
   "CodeStarNotifications",
+  "CodeStarconnections",
   "CognitoIdentity",
   "CognitoIdentityServiceProvider",
   "CognitoSync",
